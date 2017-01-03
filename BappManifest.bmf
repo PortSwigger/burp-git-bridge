@@ -1,0 +1,10 @@
+Uuid: ae94d3ff6007497d863313fdded20daa
+ExtensionType: 2
+Name: Git Bridge
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: false
+Author: Jonathan Foote
+ShortDescription: Lets Burp users store Burp data and collaborate via git.
+EntryPoint: burp_git_bridge.py
