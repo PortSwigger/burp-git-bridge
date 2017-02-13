@@ -1,6 +1,7 @@
 Uuid: ae94d3ff6007497d863313fdded20daa
 ExtensionType: 2
 Name: Git Bridge
+RepoName: git-bridge
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
